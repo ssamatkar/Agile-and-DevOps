@@ -4,7 +4,6 @@ Welcome to the Agile and DevOps Labs
 ## Lab 1: Learning to use Git and its basic operations 
 
 **Objective:**
-The objective of this lab is to understand git and github.
 •	Creating a remote repository by using GitHub  
 •	Downloading the application from the CloudThat AWS S3 bucket
 •	Pushing the code into your remote GitHub repository  
@@ -286,6 +285,8 @@ Then, Click on **Add Webhook**.
 ### Task 6: Installing and Configuring Tomcat for Deploying our Application on Jenkins Server
 
 ![image](https://github.com/janjiralakirankumar/DevOpsEssentials/assets/137407373/d5dde194-f10d-4b4d-a20c-890e9ca3e392)
+
+
 Step 1: Download Tomcat
 1. Go to the Apache Tomcat website. [Click Here](https://tomcat.apache.org/)
 2. Navigate to the "Download" section.[Click Here](https://tomcat.apache.org/download-10.cgi)

@@ -20,7 +20,7 @@ The objective of this lab is to understand git and github.
 ---------------------------------------------------------------------
 ### Task-2: Download and Install Git Bash
 
-1. Visit the [Click Here](https://git-scm.com/download/win)
+1. Visit the [Git download page](https://git-scm.com/download/win)
 2. The website should automatically start downloading the latest version of Git for Windows, which includes Git Bash.
 3. Locate the downloaded .exe file and double-click to run the installer.
 4. Click 'Install' to start the installation process and wait for it to finish.
@@ -201,7 +201,7 @@ The objective of this lab is to configure Jenkins to build and deploy applicatio
 
 ### Task 1: Install Jenkins
 
-1.	Download Jenkins MSI Installer: Visit the Jenkins official website and download the Windows installer (jenkins.msi).
+1.	Download Jenkins MSI Installer: Visit the [Jenkins official website](https://www.jenkins.io/download/#downloading-jenkins) and download the Windows installer (jenkins.msi).
 2. Run the Installer: Double-click the downloaded jenkins.msi file to start the installation process.
 3. Select Installation Options: Choose the installation directory. You can leave the default path or choose a different directory.
 4. Service Logon Credentials: By default, Jenkins will run as a Windows service under the Local System account. If you want to run it under a different user account, specify the username and password here.
